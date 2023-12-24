@@ -5,9 +5,10 @@ export default function Home() {
     <main className="min-w-screen min-h-screen bg-neutral-950 text-white">
       <div className="flex items-center justify-center h-screen">
         <div>
-          <h1 className="text-5xl font-semibold text-center">Tweet in peace</h1>
-          <div className="flex items-center justify-center gap-x-3 mt-6">
-            <p className="text-neutral-400">instantly block</p>
+          <div className="flex justify-center">
+            <h1 className="lg:w-2/3 text-5xl font-semibold text-center">Instantly block annoying Twitter bots</h1>
+          </div>
+          <div className="flex items-center justify-center gap-x-3 mt-12">
             <div className="flex">
               <div className="relative w-6 h-6 outline outline-2 outline-white bg-sky-200 rounded-full">
                 <Image
@@ -41,7 +42,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center mt-6">
             <button className="px-4 py-1.5 text-sm font-semibold text-black rounded-full bg-white">
-              Coming soon
+              Coming soon to 𝕏
             </button>
           </div>
           <div className="flex justify-center mt-1.5">
