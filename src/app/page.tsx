@@ -6,7 +6,7 @@ export default function Home() {
       <div className="flex items-center justify-center h-screen">
         <div>
           <div className="flex justify-center">
-            <h1 className="lg:w-2/3 text-5xl font-semibold text-center">Instantly block annoying Twitter bots</h1>
+            <h1 className="lg:w-2/3 text-5xl font-semibold text-center">Automatically block annoying Twitter bots</h1>
           </div>
           <div className="flex items-center justify-center gap-x-3 mt-12">
             <div className="flex">
